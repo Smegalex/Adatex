@@ -1,0 +1,1 @@
+window.location.href='./pages/china/sweater.html'
